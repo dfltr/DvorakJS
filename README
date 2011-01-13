@@ -1,0 +1,7 @@
+I remapped a few of the symbols to better match common usage patterns in dynamic languages -- mainly JavaScript which I use most often, hence the name.
+
+Screenshots available on the wiki: https://github.com/dfltr/DvorakJS/wiki
+
+Based on Roland Kaufmann's Programmer Dvorak keylayout: http://www.kaufmann.no/roland/dvorak/
+
+I used Ukelele to view / edit the .keylayout and bundle files: http://scripts.sil.org/ukelele
